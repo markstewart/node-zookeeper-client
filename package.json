@@ -25,7 +25,7 @@
     "zookeeper": "git+https://github.com/yfinkelstein/node-zookeeper.git",
     "async": "= 0.1.18",
     "sprintf": "= 0.1.1",
-    "rackspace-shared-utils": ">= 0.1.4",
+    "rackspace-shared-utils": "git+https://github.com/racker/node-rackspace-shared-utils.git",
     "logmagic": "= 0.1.4",
     "optimist": "= 0.3.4"
   },
